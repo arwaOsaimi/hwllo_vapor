@@ -7,25 +7,11 @@ Learn backend development by creating a RESTful API using Vapor and Fluent integ
 # App Statment 
 A RESTful API integrated with PSQL database for Drones-tracking iOS app
 
-# Feature List
+ ![image](https://github.com/arwaOsaimi/hwllo_vapor/assets/52634982/088ea896-c24b-4f5c-80bd-482170f5d140)
 
-1- Fetch all User (GET)
-2- Fetch a User by its ID (GET)
-3- Delete User (DELETE)
-4- Update User info (PUT)
-5- Add a new User (POST)
+ ![image](https://github.com/arwaOsaimi/hwllo_vapor/assets/52634982/e7f8554b-5737-497f-8cce-d8b48103d9aa)
 
-1- Fetch all Dro (GET)
-2- Fetch a Drones by its ID (GET)
-3- Delete Drones (DELETE)
-4- Update Drones info (PUT)
-5- Add a new Drones (POST)
-
-1- Fetch all Flights (GET)
-2- Fetch a flight by its LogID (GET)
-3- Delete Flight (DELETE)
-4- Update Flight info (PUT)
-5- Add a new Flight (POST)
+![image](https://github.com/arwaOsaimi/hwllo_vapor/assets/52634982/515b302f-db0c-4bcf-a807-24cfcc5570cc)
 
 
-# ![Uploading Screenshot 1445-08-16 at 2.20.21 PM.png…]()
+
